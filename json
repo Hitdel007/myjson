@@ -24,6 +24,7 @@
       "cnews" : "https://imagetv.in/hls10/cnews/index.m3u8",
       "ctvnakdplus" : "https://m-c05-j2apps.s.llnwi.net/hls/7062.CTVN.in_360p/index.m3u8",
       "ddassam" : "https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in_360p/index.m3u8",
+      "ddnews" : "https://hls.media.nic.in/live/ddnews/index.m3u8",
       "ddbihar" : "https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8",
       "ddgirnar" : "https://m-c18-j2apps.s.llnwi.net/hls/0254.DDGirnar.in_480p/index.m3u8",
       "ddmp" : "https://m-c047-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in.m3u8",
