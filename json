@@ -135,6 +135,9 @@
       "news18lok" : "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8",
       "news18guj" : "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8",
       "news18kannada" : "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8",
+      "otvhd" : "https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/otv-origin/live_720p/chunks.m3u8",
+      "kanak" : "https://live.kanaknews.com:4443/live/stream/chunks.m3u8",
+      "news18odia" : "https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8",
       "newsx" : "https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8"
       
     }]
