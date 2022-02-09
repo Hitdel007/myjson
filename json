@@ -77,7 +77,7 @@
       "nd24" : "https://rtmp.smartstream.video/r9lives/r9lives/chunklist_w1961089413.m3u8",
       "ndtv" : "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8",
       "ndtvprofit" : "https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8",
-      "nenews" : "https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/playlist.m3u8",
+      "nenews" : "https://5b48d7e1b4bce.streamlock.net/myapp/newslive/chunklist_w1154742615.m3u8",
       "network10" : "https://m-c010-j2apps.s.llnwi.net/hls/7089.Network10News.in_480p/index.m3u8",
       "news18" : "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8",
       "news18gujrati" : "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8",
@@ -140,6 +140,7 @@
       "news18odia" : "https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8",
       "asianet" : "https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8",
       "manorama" : "https://mmtvlive1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/7f9d88bc-cac2-46fd-99a7-7b9de3265e74/2.m3u8",
+      "news18assam" : "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8",
       "newsx" : "https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8"
       
     }]
