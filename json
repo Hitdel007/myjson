@@ -43,7 +43,7 @@
       "gbn24" : "https://m-c050-j2apps.s.llnwi.net/hls/7095.GBN24.in_480p/index.m3u8",
       "gnt" : "https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8",
       "gstv" : "https://1-88-10546-44.b.cdn13.com/388656798579293628302251.m3u8",
-      "gulistan" : "https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8",
+      "gulistan" : "https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in_480p/index.m3u88",
       "hindikha" : "https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8",
       "ibc" : "https://stream2.ibc24.in/livestream.m3u8",
       "ind24m" : "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8",
@@ -141,6 +141,7 @@
       "asianet" : "https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8",
       "manorama" : "https://mmtvlive1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/7f9d88bc-cac2-46fd-99a7-7b9de3265e74/2.m3u8",
       "news18assam" : "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8",
+      "news18urdu" : "https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8",
       "newsx" : "https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8"
       
     }]
