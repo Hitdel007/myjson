@@ -1,0 +1,71 @@
+{
+    "status": 1,
+    "category": [
+        {
+            "id": 1,
+            "category_name_en": "car",
+            "category_name_ar": "car",
+            "description_en": "",
+            "description_ar": "",
+            "day": "monday,tuesday,wednesday,thursday,friday,saturday,sunday",
+            "status": "A",
+            "created_at": "Sep 4 2017 8:09 AM",
+            "updated_at": "Sep 4 2017 8:09 AM",
+            "sub_category": [
+                {
+                    "id": 1,
+                    "sub_category_name_en": "Audi",
+                    "sub_category_name_ar": "Audi",
+                    "sub_description_en": "",
+                    "sub_description_ar": "",
+                    "status": "A",
+                    "created_at": "Sep 4 2017 8:10 AM",
+                    "updated_at": "Sep 4 2017 8:10 AM"
+                },
+                {
+                    "id": 4,
+                    "sub_category_name_en": "New",
+                    "sub_category_name_ar": "New",
+                    "sub_description_en": "",
+                    "sub_description_ar": "",
+                    "status": "A",
+                    "created_at": "Sep 4 2017 9:45 AM",
+                    "updated_at": "Sep 4 2017 9:45 AM"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "category_name_en": "Animal",
+            "category_name_ar": "Animal",
+            "description_en": "",
+            "description_ar": "",
+            "day": "monday,tuesday,wednesday,thursday,friday,saturday,sunday",
+            "status": "A",
+            "created_at": "Sep 4 2017 9:19 AM",
+            "updated_at": "Sep 4 2017 9:19 AM",
+            "sub_category": [
+                {
+                    "id": 2,
+                    "sub_category_name_en": "Dogs",
+                    "sub_category_name_ar": "Dogs",
+                    "sub_description_en": "",
+                    "sub_description_ar": "",
+                    "status": "A",
+                    "created_at": "Sep 4 2017 9:20 AM",
+                    "updated_at": "Sep 4 2017 9:20 AM"
+                },
+                {
+                    "id": 3,
+                    "sub_category_name_en": "Cat",
+                    "sub_category_name_ar": "Cat",
+                    "sub_description_en": "",
+                    "sub_description_ar": "",
+                    "status": "A",
+                    "created_at": "Sep 4 2017 9:21 AM",
+                    "updated_at": "Sep 4 2017 9:21 AM"
+                }
+            ]
+        }
+    ]
+}
