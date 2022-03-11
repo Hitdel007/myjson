@@ -3,8 +3,8 @@
     "category": [
         {
             "id": 1,
-            "category_name_en": "car",
-            "category_name_ar": "car",
+            "title": "New on App",
+            
             "description_en": "",
             "description_ar": "",
             "day": "monday,tuesday,wednesday,thursday,friday,saturday,sunday",
@@ -14,9 +14,10 @@
             "sub_category": [
                 {
                     "id": 1,
-                    "sub_category_name_en": "Audi",
-                    "sub_category_name_ar": "Audi",
-                    "sub_description_en": "",
+                    "name": "rajesh",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/26d0292784b7592edc6321f74bf8fb79.jpg?alt=media&token=5f02a886-6efe-4c3e-a001-d2e215ad8751",
+                 
+      
                     "sub_description_ar": "",
                     "status": "A",
                     "created_at": "Sep 4 2017 8:10 AM",
@@ -24,6 +25,20 @@
                 },
                 {
                     "id": 4,
+                  
+                     "name": "Hitesh",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/902a392d7af51b9ef526944138d15c98.jpg?alt=media&token=dad10053-80f7-454c-8bb5-b24974a6b21d",
+                    "sub_description_en": "",
+                    "sub_description_ar": "",
+                    "status": "A",
+                    "created_at": "Sep 4 2017 9:45 AM",
+                    "updated_at": "Sep 4 2017 9:45 AM"
+                },
+                
+                  {
+                   
+                     "name": "Nipun",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/db58703032a128277dc1653da48b4378.jpg?alt=media&token=efe2cc95-601d-47bc-a0ab-a0598cfb9b83",
                     "sub_category_name_en": "New",
                     "sub_category_name_ar": "New",
                     "sub_description_en": "",
@@ -35,6 +50,8 @@
                 
                   {
                    
+                     "name": "Amit",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/download.jpg?alt=media&token=b9f2dc5d-e350-4d6e-9759-653f6fe47956",  
                     "sub_category_name_en": "New",
                     "sub_category_name_ar": "New",
                     "sub_description_en": "",
@@ -45,20 +62,9 @@
                 },
                 
                   {
-                   
-                    "sub_category_name_en": "New",
-                    "sub_category_name_ar": "New",
-                    "sub_description_en": "",
-                    "sub_description_ar": "",
-                    "status": "A",
-                    "created_at": "Sep 4 2017 9:45 AM",
-                    "updated_at": "Sep 4 2017 9:45 AM"
-                },
-                
-                  {
                     
-                    "sub_category_name_en": "New",
-                    "sub_category_name_ar": "New",
+                    "name": "Amit",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/download.jpg?alt=media&token=b9f2dc5d-e350-4d6e-9759-653f6fe47956",
                     "sub_description_en": "",
                     "sub_description_ar": "",
                     "status": "A",
@@ -68,8 +74,8 @@
                 
                  {
                     
-                    "sub_category_name_en": "New",
-                    "sub_category_name_ar": "New",
+                    "name": "Amit",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/download.jpg?alt=media&token=b9f2dc5d-e350-4d6e-9759-653f6fe47956",
                     "sub_description_en": "",
                     "sub_description_ar": "",
                     "status": "A",
@@ -79,8 +85,8 @@
                 
                  {
                     
-                    "sub_category_name_en": "New",
-                    "sub_category_name_ar": "New",
+                    "name": "Amit",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/download.jpg?alt=media&token=b9f2dc5d-e350-4d6e-9759-653f6fe47956",
                     "sub_description_en": "",
                     "sub_description_ar": "",
                     "status": "A",
@@ -93,7 +99,7 @@
         },
         {
             "id": 2,
-            "category_name_en": "Animal",
+            "category_name_en": "Near Me",
             "category_name_ar": "Animal",
             "description_en": "",
             "description_ar": "",
@@ -104,8 +110,8 @@
             "sub_category": [
                 {
                     "id": 2,
-                    "sub_category_name_en": "Dogs",
-                    "sub_category_name_ar": "Dogs",
+                       "name": "rajesh",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/26d0292784b7592edc6321f74bf8fb79.jpg?alt=media&token=5f02a886-6efe-4c3e-a001-d2e215ad8751",
                     "sub_description_en": "",
                     "sub_description_ar": "",
                     "status": "A",
@@ -114,8 +120,8 @@
                 },
                 {
                     "id": 3,
-                    "sub_category_name_en": "Cat",
-                    "sub_category_name_ar": "Cat",
+                       "name": "rajesh",
+                     "imgeurl": "https://firebasestorage.googleapis.com/v0/b/news-solution.appspot.com/o/26d0292784b7592edc6321f74bf8fb79.jpg?alt=media&token=5f02a886-6efe-4c3e-a001-d2e215ad8751",
                     "sub_description_en": "",
                     "sub_description_ar": "",
                     "status": "A",
