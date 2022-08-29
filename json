@@ -2,7 +2,7 @@
   "m3u8" : [{
   
       "abnews" : "https://m-c06-j2apps.s.llnwi.net/hls/8015.ABNews.in_480p/index.m3u8",
-      "abp" : "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+      "abp" : "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8",
       "abpananda" : "https://m-c02-j2apps.s.loris.llnwd.net/hls/7015.ABPAnanda.in_480p/index.m3u8",
       "abpasmitam" : "https://m-c02-j2apps.s.loris.llnwd.net/hls/7019.ABPAsmita.in_480p/index.m3u8",
       "abpganga" : "https://m-c02-j2apps.s.loris.llnwd.net/hls/7017.ABPGanga.in.m3u8",
@@ -10,7 +10,7 @@
       "abpsanjha" : "https://m-c02-j2apps.s.loris.llnwd.net/hls/7018.ABPSanjha.in_480p/index.m3u8",
       "abpsanjhaHD" : "https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index_7.m3u8",
       "abstar" : "https://m-c05-j2apps.s.llnwi.net/hls/8014.ABStarNews.in_480p/index.m3u8",
-      "ajtak" : "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8",
+      "ajtak" : "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
       "anaadi" : "https://m-c050-j2apps.s.llnwi.net/hls/8045.AnaadiTV.in_480p/index.m3u8",
       "ann" : "https://m-c07-j2apps.s.llnwi.net/hls/8023.AANNNews.in_480p/index.m3u8",
       "apnnews" : "https://m-c05-j2apps.s.llnwi.net/hls/8011.APNNews.in_480p/index.m3u8",
